@@ -1,4 +1,4 @@
-## IGNITE CHALLANGE 01
+## IGNITE CHALLANGE 01 (ROCKETSEAT)
 
 ### CONCEITOS ###
 
@@ -6,3 +6,6 @@
 - css modules
 - componentização
 - gerenciamento de estato 
+
+
+
